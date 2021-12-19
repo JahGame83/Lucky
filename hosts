@@ -1,0 +1,329 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# 127.0.0.1    codeload.github.com # cured by Dr.Web
+
+# 127.0.0.1    support.kaspersky.ru # cured by Dr.Web
+
+# 127.0.0.1    kaspersky.ru # cured by Dr.Web
+
+# 127.0.0.1    virusinfo.info # cured by Dr.Web
+
+# 127.0.0.1    forum.kasperskyclub.ru # cured by Dr.Web
+
+# 127.0.0.1    cyberforum.ru # cured by Dr.Web
+
+# 127.0.0.1    soft-file.ru # cured by Dr.Web
+
+# 127.0.0.1    www.360totalsecurity.com # cured by Dr.Web
+
+# 127.0.0.1    cezurity.com # cured by Dr.Web
+
+# 127.0.0.1    www.dropbox.com # cured by Dr.Web
+
+# 127.0.0.1    193.228.54.23 # cured by Dr.Web
+
+# 127.0.0.1    spec-komp.com # cured by Dr.Web
+
+# 127.0.0.1    eset.ua # cured by Dr.Web
+
+# 127.0.0.1    regist.safezone.cc # cured by Dr.Web
+
+# 127.0.0.1    panel.koronavirusfuck.xyz # cured by Dr.Web
+
+# 127.0.0.1    360totalsecurity.com # cured by Dr.Web
+
+# 127.0.0.1    www.esetnod32.ru # cured by Dr.Web
+
+# 127.0.0.1    www.comss.ru # cured by Dr.Web
+
+# 127.0.0.1    safezone.cc # cured by Dr.Web
+
+# 127.0.0.1    blog-pc.ru # cured by Dr.Web
+
+# 127.0.0.1    www.securrity.ru # cured by Dr.Web
+
+# 127.0.0.1    vellisa.ru # cured by Dr.Web
+
+# 127.0.0.1    download-software.ru # cured by Dr.Web
+
+# 127.0.0.1    drweb-cureit.ru # cured by Dr.Web
+
+# 127.0.0.1    softpacket.ru # cured by Dr.Web
+
+# 127.0.0.1    www.kaspersky.com # cured by Dr.Web
+
+
+# 127.0.0.1    www.avast.ua # cured by Dr.Web
+
+# 127.0.0.1    www.avast.ru # cured by Dr.Web
+
+# 127.0.0.1    zillya.ua # cured by Dr.Web
+
+# 127.0.0.1    safezone.ua # cured by Dr.Web
+
+# 127.0.0.1    vms.drweb.ru # cured by Dr.Web
+
+# 127.0.0.1    www.drweb.ua # cured by Dr.Web
+
+# 127.0.0.1    free.drweb.ru # cured by Dr.Web
+
+# 127.0.0.1    biblprog.org.ua # cured by Dr.Web
+
+# 127.0.0.1    free-software.com.ua # cured by Dr.Web
+
+# 127.0.0.1    free.dataprotection.com.ua # cured by Dr.Web
+
+# 127.0.0.1    www.drweb.com # cured by Dr.Web
+
+# 127.0.0.1    www.softportal.com # cured by Dr.Web
+
+# 127.0.0.1    www.nashnet.ua # cured by Dr.Web
+
+# 127.0.0.1    softlist.com.ua # cured by Dr.Web
+
+
+# 127.0.0.1    it-doc.info # cured by Dr.Web
+
+# 127.0.0.1    esetnod32.ru # cured by Dr.Web
+
+# 127.0.0.1    blog-bridge.ru # cured by Dr.Web
+
+# 127.0.0.1    remontka.pro # cured by Dr.Web
+
+# 127.0.0.1    securos.org.ua # cured by Dr.Web
+
+# 127.0.0.1    pc-helpp.com # cured by Dr.Web
+
+# 127.0.0.1    softdroid.net # cured by Dr.Web
+
+
+# 127.0.0.1    malwarebytes.com # cured by Dr.Web
+
+# 127.0.0.1    ru.vessoft.com # cured by Dr.Web
+
+# 127.0.0.1    AlpineFile.ru # cured by Dr.Web
+
+# 127.0.0.1    malwarebytes-anti-malware.ru.uptodown.com # cured by Dr.Web
+
+# 127.0.0.1    ProgramDownloadFree.com # cured by Dr.Web
+
+# 127.0.0.1    download.cnet.com # cured by Dr.Web
+
+# 127.0.0.1    soft.mydiv.net # cured by Dr.Web
+
+# 127.0.0.1    spyware-ru.com # cured by Dr.Web
+
+# 127.0.0.1    remontcompa.ru # cured by Dr.Web
+
+# 127.0.0.1    www.hitmanpro.com # cured by Dr.Web
+
+# 127.0.0.1    hitman-pro.ru.uptodown.com # cured by Dr.Web
+
+# 127.0.0.1    www.bleepingcomputer.com # cured by Dr.Web
+
+# 127.0.0.1    soft.oszone.net # cured by Dr.Web
+
+# 127.0.0.1    krutor.org # cured by Dr.Web
+
+# 127.0.0.1    RuTracker.org # cured by Dr.Web
+
+# 127.0.0.1    www.greatis.com # cured by Dr.Web
+
+# 127.0.0.1    unhackme.ru.uptodown.com # cured by Dr.Web
+
+# 127.0.0.1    programy.com.ua # cured by Dr.Web
+
+# 127.0.0.1    rsload.net # cured by Dr.Web
+
+# 127.0.0.1    softobase.com # cured by Dr.Web
+
+
+# 127.0.0.1    www.besplatnoprogrammy.ru # cured by Dr.Web
+
+# 127.0.0.1    unhackme.en.softonic.com # cured by Dr.Web
+
+# 127.0.0.1    unhackme.com # cured by Dr.Web
+
+# 127.0.0.1    unhackme.ru # cured by Dr.Web
+
+# 127.0.0.1    nnm-club.name # cured by Dr.Web
+
+# 127.0.0.1    vgrom.com # cured by Dr.Web
+
+# 127.0.0.1    moneropool.com # cured by Dr.Web
+
+# 127.0.0.1    mine.moneropool.com # cured by Dr.Web
+
+# 127.0.0.1    xmr.cryptopool.org # cured by Dr.Web
+
+# 127.0.0.1    pool.monero.org # cured by Dr.Web
+
+# 127.0.0.1    minexmr.com # cured by Dr.Web
+
+# 127.0.0.1    monero.crypto-pool.fr # cured by Dr.Web
+
+# 127.0.0.1    dwarfpool.com # cured by Dr.Web
+
+# 127.0.0.1    disk-space.ru # cured by Dr.Web
+
+
+
+
+
+
+
+
+# 127.0.0.1    file7.ru # cured by Dr.Web
+
+
+# 127.0.0.1    ufille.ru # cured by Dr.Web
+
+# 127.0.0.1    rgho.st # cured by Dr.Web
+
+# 127.0.0.1    yadi.su # cured by Dr.Web
+
+# 127.0.0.1    catcut.net # cured by Dr.Web
+
+# 127.0.0.1    fsdisk.ru # cured by Dr.Web
+
+# 127.0.0.1    rpfile.ru # cured by Dr.Web
+
+# 127.0.0.1    cheats.file-a.ru # cured by Dr.Web
+
+# 127.0.0.1    file-space.org # cured by Dr.Web
+
+# 127.0.0.1    sfailo.ru # cured by Dr.Web
+
+# 127.0.0.1    sendspace.com # cured by Dr.Web
+
+# 127.0.0.1    www.sendspace.com # cured by Dr.Web
+
+# 127.0.0.1    fille-7.ru # cured by Dr.Web
+
+# 127.0.0.1    loufile.ru # cured by Dr.Web
+
+# 127.0.0.1    file-seven.com # cured by Dr.Web
+
+# 127.0.0.1    file-a.ru # cured by Dr.Web
+
+# 127.0.0.1    fail-7.ru # cured by Dr.Web
+
+# 127.0.0.1    1-kk.ru # cured by Dr.Web
+
+# 127.0.0.1    rufile.net # cured by Dr.Web
+
+# 127.0.0.1    filexpwx.space # cured by Dr.Web
+
+# 127.0.0.1    sfile.net # cured by Dr.Web
+
+# 127.0.0.1    mdiskfile.com # cured by Dr.Web
+
+# 127.0.0.1    mega.nz # cured by Dr.Web
+
+# 127.0.0.1    dfile.su # cured by Dr.Web
+
+# 127.0.0.1    rgfail.ru # cured by Dr.Web
+
+# 127.0.0.1    rudwnl.ru # cured by Dr.Web
+
+# 127.0.0.1    dfile.info # cured by Dr.Web
+
+# 127.0.0.1    flles.ru # cured by Dr.Web
+
+# 127.0.0.1    pool.minexmr.to # cured by Dr.Web
+
+
+# 127.0.0.1    ska4ay.pl # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.ru # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.club # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.net # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.org # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.com # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.pro # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.pw # cured by Dr.Web
+
+# 127.0.0.1    ska4ay.online # cured by Dr.Web
+
+# 127.0.0.1    skachaty.pl # cured by Dr.Web
+
+# 127.0.0.1    skachaty.ru # cured by Dr.Web
+
+# 127.0.0.1    skachaty.club # cured by Dr.Web
+
+# 127.0.0.1    skachaty.net # cured by Dr.Web
+
+# 127.0.0.1    skachaty.org # cured by Dr.Web
+
+# 127.0.0.1    skachaty.com # cured by Dr.Web
+
+# 127.0.0.1    skachaty.pro # cured by Dr.Web
+
+# 127.0.0.1    skachaty.pw # cured by Dr.Web
+
+# 127.0.0.1    skachaty.online # cured by Dr.Web
+
+# 127.0.0.1    skachay.pl # cured by Dr.Web
+
+# 127.0.0.1    skachay.ru # cured by Dr.Web
+
+# 127.0.0.1    skachay.club # cured by Dr.Web
+
+# 127.0.0.1    skachay.net # cured by Dr.Web
+
+# 127.0.0.1    skachay.org # cured by Dr.Web
+
+# 127.0.0.1    skachay.com # cured by Dr.Web
+
+# 127.0.0.1    skachay.pro # cured by Dr.Web
+
+# 127.0.0.1    skachay.pw # cured by Dr.Web
+
+# 127.0.0.1    skachay.website # cured by Dr.Web
+
+# 127.0.0.1    skachay.online # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.pl # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.ru # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.club # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.net # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.org # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.com # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.pro # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.pw # cured by Dr.Web
+
+# 127.0.0.1    ska4aty.online # cured by Dr.Web
+
